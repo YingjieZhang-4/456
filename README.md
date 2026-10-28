@@ -1,1 +1,1 @@
-# Whitsunday in Sound
+# Whitsunday in sound
