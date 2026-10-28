@@ -19,17 +19,17 @@ The project consists of seven audio tracks, each of which undertakes different m
 
 Electric Bass: Provides the foundation of bass and rhythm.
 
-: Organize drumbeat rhythms using lists, loops and functions.
+Drums: Organize drumbeat rhythms using lists, loops and functions.
 
-Main Piano: Playing the main melody and harmony, it is the main part of music.
+Main Piano: Plays the main melody and harmony, it is the main part of music.
 
 Guitar: Use a few single notes as embellishments to add layers to the music.
 
 Supporting Harmony: Add supporting harmonies during certain emotional phases.
 
-Shaker: Adds additional rhythm layers to some paragraphs.
+Shaker: Adds additional rhythm layers to some sections.
 
-Additional Melody: Add an auxiliary melody to a specific section.
+Additional Melody: Adds an auxiliary melody to a specific section.
 
 The seven audio tracks work in coordination, presenting the emotional changes during the journey through different sound combinations.
 
@@ -57,7 +57,7 @@ Open TunePad: https://tunepad.com/
 
 Create a new music project.
 
-Create seven corresponding audio tracks based on the file names in the tracks folder in the warehouse.
+Create seven corresponding audio tracks based on the file names in the tracks folder in the repository.
 
 Copy the code in each.py file to the code editor corresponding to the TunePad track.
 
@@ -65,12 +65,12 @@ Make sure the audio track uses the correct instruments and set the project tempo
 
 Run all the audio tracks and play the complete music.
 
-Note: These codes use the music programming functionality provided by TunePad and need to be run in the TunePad environment rather than directly executed using a regular python interpreter.
+Note: These codes use the music programming functionality provided by TunePad and need to be run in the TunePad environment rather than directly executed using a regular Python interpreter.
 
 6. Project Files
 
 README.md: Project Introduction and Operation Instructions.
 
-tracks/ : python source code corresponding to seven audio tracks.
+tracks/ : Python source code corresponding to seven audio tracks.
 
 The focus of the project is to explore the relationship between musical structure and emotional expression through programming and demonstrate how different programming concepts can be applied to actual music creation.
