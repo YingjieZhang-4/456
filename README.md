@@ -53,7 +53,7 @@ rewind() and moveTo() : Control the position where the music plays.
 
 5. How to Run
 
-Open TunePad: https://tunepad.com/
+Open TunePad: https://tunepad.com/project/130002#code
 
 Create a new music project.
 
